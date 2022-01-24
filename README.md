@@ -4,10 +4,6 @@ A portfolio build by using flutter for web.
 
 ## Demo
 
-<p>
-  <img src="screenshots/portfolio.png">
-</p>
-
 ## How to Create and Deploy
 Follow the links below to learn more about how to create and deploy web applications in flutter.
 
@@ -22,7 +18,7 @@ Follow the links below to learn more about how to create and deploy web applicat
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/Portfolio-Demo.git
+https://github.com/amt-13/my-Portfolio
 ```
 
 **Step 2:**
